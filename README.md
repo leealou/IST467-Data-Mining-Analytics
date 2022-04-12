@@ -6,3 +6,12 @@
       Label, One Hot Encoding, Polynomial Regression, Random Forest Regressors, Regression, Scaled, Standardization
 ## Chapter 2
 * **Module 5**: Car, Confusion Matrix, Income, Logistic Regression, Naive Bayes, Preformance Report, Post-Classification, Simple Classifier, Splitting Dataset, Wine-Quality
+## Chapter 3
+*
+## Chapter 4
+*
+## Midterm Exam
+
+## Chapter 5
+*
+## Chapter 6
