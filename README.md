@@ -7,11 +7,10 @@
 ## Chapter 2
 * **Module 5**: Car, Confusion Matrix, Income, Logistic Regression, Naive Bayes, Preformance Report, Post-Classification, Simple Classifier, Splitting Dataset, Wine-Quality
 ## Chapter 3
-*
+* **Module 6**
 ## Chapter 4
-*
-## Midterm Exam
-
+* **Module 9**
 ## Chapter 5
-*
+* **Module 11**
 ## Chapter 6
+* **Module 12**
