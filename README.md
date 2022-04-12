@@ -14,7 +14,7 @@
 
 ## Chapter 4
 * **Module 9**: Agglomerative, AutoencMnist, Customer Segmentation, Estimate Clusters, Kmeans, Performance, Stock Market, Utilites, Vector Quantization
-* * **Module 8**: MIDTERM EXAM
+* **Module 8**: MIDTERM EXAM
 
 ## Chapter 5
 * **Module 10**: Tableau
